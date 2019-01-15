@@ -1,0 +1,1298 @@
+{
+  "response" : {
+    "geoId" : 2,
+    "rgid" : "417899",
+    "name" : "Санкт-Петербург",
+    "locative" : "в Санкт-Петербурге",
+    "country" : 225,
+    "type" : "CITY",
+    "showMap" : true,
+    "zoom" : 11,
+    "latitude" : 59.938953,
+    "longitude" : 30.31564,
+    "parents" : [ {
+      "geoId" : 10174,
+      "rgid" : "741965",
+      "name" : "Санкт-Петербург и ЛО",
+      "type" : "SUBJECT_FEDERATION"
+    }, {
+      "geoId" : 225,
+      "rgid" : "143",
+      "name" : "Россия",
+      "type" : "COUNTRY"
+    }, {
+      "geoId" : 0,
+      "rgid" : "0",
+      "type" : "UNKNOWN"
+    } ],
+    "sublocalities" : [ {
+      "id" : "417977",
+      "name" : "Кронштадтский",
+      "locative" : "в Кронштадтском районе",
+      "type" : "SUBJECT_FEDERATION_DISTRICT"
+    }, {
+      "id" : "417965",
+      "name" : "Колпинский",
+      "locative" : "в Колпинском районе",
+      "type" : "SUBJECT_FEDERATION_DISTRICT"
+    }, {
+      "id" : "417962",
+      "name" : "Курортный",
+      "locative" : "в Курортном районе",
+      "type" : "SUBJECT_FEDERATION_DISTRICT"
+    }, {
+      "id" : "417972",
+      "name" : "Пушкинский",
+      "locative" : "в Пушкинском районе",
+      "type" : "SUBJECT_FEDERATION_DISTRICT"
+    }, {
+      "id" : "417968",
+      "name" : "Петродворцовый",
+      "locative" : "в Петродворцовом районе",
+      "type" : "SUBJECT_FEDERATION_DISTRICT"
+    }, {
+      "id" : "417975",
+      "name" : "Адмиралтейский",
+      "locative" : "в Адмиралтейском районе",
+      "type" : "CITY_DISTRICT"
+    }, {
+      "id" : "417971",
+      "name" : "Калининский",
+      "locative" : "в Калининском районе",
+      "type" : "CITY_DISTRICT"
+    }, {
+      "id" : "417966",
+      "name" : "Кировский",
+      "locative" : "в Кировском районе",
+      "type" : "CITY_DISTRICT"
+    }, {
+      "id" : "417970",
+      "name" : "Василеостровский",
+      "locative" : "в Василеостровском районе",
+      "type" : "CITY_DISTRICT"
+    }, {
+      "id" : "417979",
+      "name" : "Выборгский",
+      "locative" : "в Выборгском районе",
+      "type" : "CITY_DISTRICT"
+    }, {
+      "id" : "417976",
+      "name" : "Красносельский",
+      "locative" : "в Красносельском районе",
+      "type" : "CITY_DISTRICT"
+    }, {
+      "id" : "417964",
+      "name" : "Красногвардейский",
+      "locative" : "в Красногвардейском районе",
+      "type" : "CITY_DISTRICT"
+    }, {
+      "id" : "417974",
+      "name" : "Невский",
+      "locative" : "в Невском районе",
+      "type" : "CITY_DISTRICT"
+    }, {
+      "id" : "417963",
+      "name" : "Петроградский",
+      "locative" : "в Петроградском районе",
+      "type" : "CITY_DISTRICT"
+    }, {
+      "id" : "417978",
+      "name" : "Московский",
+      "locative" : "в Московском районе",
+      "type" : "CITY_DISTRICT"
+    }, {
+      "id" : "417967",
+      "name" : "Фрунзенский",
+      "locative" : "во Фрунзенском районе",
+      "type" : "CITY_DISTRICT"
+    }, {
+      "id" : "417969",
+      "name" : "Приморский",
+      "locative" : "в Приморском районе",
+      "type" : "CITY_DISTRICT"
+    }, {
+      "id" : "417973",
+      "name" : "Центральный",
+      "locative" : "в Центральном районе",
+      "type" : "CITY_DISTRICT"
+    }, {
+      "id" : "241628",
+      "name" : "2-й  Морского Порта",
+      "type" : "CITY_DISTRICT"
+    } ],
+    "heatmaps" : [ "transport", "infrastructure", "ecology", "price-sell", "price-rent", "profitability" ],
+    "heatmapInfos" : [ {
+      "name" : "transport-10174",
+      "type" : "transport",
+      "palette" : [ {
+        "level" : 1,
+        "from" : 1,
+        "to" : 2,
+        "color" : "ee4613"
+      }, {
+        "level" : 2,
+        "from" : 2,
+        "to" : 3,
+        "color" : "f87c19"
+      }, {
+        "level" : 3,
+        "from" : 3,
+        "to" : 4,
+        "color" : "fbae1e"
+      }, {
+        "level" : 4,
+        "from" : 4,
+        "to" : 5,
+        "color" : "ffe424"
+      }, {
+        "level" : 5,
+        "from" : 5,
+        "to" : 6,
+        "color" : "9ada1b"
+      }, {
+        "level" : 6,
+        "from" : 6,
+        "to" : 7,
+        "color" : "30ce12"
+      }, {
+        "level" : 7,
+        "from" : 7,
+        "to" : 8,
+        "color" : "20a70a"
+      }, {
+        "level" : 8,
+        "from" : 8,
+        "to" : 9,
+        "color" : "128000"
+      } ]
+    }, {
+      "name" : "infrastructure-10174",
+      "type" : "infrastructure",
+      "palette" : [ {
+        "level" : 1,
+        "from" : 1,
+        "to" : 2,
+        "color" : "d23e0e"
+      }, {
+        "level" : 2,
+        "from" : 2,
+        "to" : 3,
+        "color" : "f69420"
+      }, {
+        "level" : 3,
+        "from" : 3,
+        "to" : 4,
+        "color" : "74b110"
+      } ]
+    }, {
+      "name" : "ecology-10174",
+      "type" : "ecology",
+      "palette" : [ {
+        "level" : 1,
+        "from" : 1,
+        "to" : 2,
+        "color" : "620801"
+      }, {
+        "level" : 2,
+        "from" : 2,
+        "to" : 3,
+        "color" : "ee4613"
+      }, {
+        "level" : 3,
+        "from" : 3,
+        "to" : 4,
+        "color" : "f87c19"
+      }, {
+        "level" : 4,
+        "from" : 4,
+        "to" : 5,
+        "color" : "fbae1e"
+      }, {
+        "level" : 5,
+        "from" : 5,
+        "to" : 6,
+        "color" : "ffe424"
+      }, {
+        "level" : 6,
+        "from" : 6,
+        "to" : 7,
+        "color" : "9ada1b"
+      }, {
+        "level" : 7,
+        "from" : 7,
+        "to" : 8,
+        "color" : "30ce12"
+      }, {
+        "level" : 8,
+        "from" : 8,
+        "to" : 9,
+        "color" : "20a70a"
+      }, {
+        "level" : 9,
+        "from" : 9,
+        "to" : 10,
+        "color" : "128000"
+      } ]
+    }, {
+      "name" : "price-sell-10174",
+      "type" : "price-sell",
+      "palette" : [ {
+        "level" : 1,
+        "from" : 723662,
+        "to" : 196000,
+        "color" : "620801"
+      }, {
+        "level" : 2,
+        "from" : 196000,
+        "to" : 143130,
+        "color" : "ee4613"
+      }, {
+        "level" : 3,
+        "from" : 143130,
+        "to" : 127346,
+        "color" : "f87c19"
+      }, {
+        "level" : 4,
+        "from" : 127346,
+        "to" : 115445,
+        "color" : "fbae1e"
+      }, {
+        "level" : 5,
+        "from" : 115445,
+        "to" : 105350,
+        "color" : "ffe424"
+      }, {
+        "level" : 6,
+        "from" : 105350,
+        "to" : 96823,
+        "color" : "9ada1b"
+      }, {
+        "level" : 7,
+        "from" : 96823,
+        "to" : 87011,
+        "color" : "30ce12"
+      }, {
+        "level" : 8,
+        "from" : 87011,
+        "to" : 64000,
+        "color" : "20a70a"
+      }, {
+        "level" : 9,
+        "from" : 64000,
+        "to" : 11052,
+        "color" : "128000"
+      } ]
+    }, {
+      "name" : "price-rent-10174",
+      "type" : "price-rent",
+      "palette" : [ {
+        "level" : 1,
+        "from" : 71250,
+        "to" : 36100,
+        "color" : "620801"
+      }, {
+        "level" : 2,
+        "from" : 36100,
+        "to" : 30856,
+        "color" : "ee4613"
+      }, {
+        "level" : 3,
+        "from" : 30856,
+        "to" : 28500,
+        "color" : "f87c19"
+      }, {
+        "level" : 4,
+        "from" : 28500,
+        "to" : 25650,
+        "color" : "fbae1e"
+      }, {
+        "level" : 5,
+        "from" : 25650,
+        "to" : 23104,
+        "color" : "ffe424"
+      }, {
+        "level" : 6,
+        "from" : 23104,
+        "to" : 21622,
+        "color" : "9ada1b"
+      }, {
+        "level" : 7,
+        "from" : 21622,
+        "to" : 20330,
+        "color" : "30ce12"
+      }, {
+        "level" : 8,
+        "from" : 20330,
+        "to" : 18620,
+        "color" : "20a70a"
+      }, {
+        "level" : 9,
+        "from" : 18620,
+        "to" : 6498,
+        "color" : "128000"
+      } ]
+    }, {
+      "name" : "profitability-10174",
+      "type" : "profitability",
+      "palette" : [ {
+        "level" : 1,
+        "from" : 40,
+        "to" : 22,
+        "color" : "620801"
+      }, {
+        "level" : 2,
+        "from" : 22,
+        "to" : 20,
+        "color" : "ee4613"
+      }, {
+        "level" : 3,
+        "from" : 20,
+        "to" : 19,
+        "color" : "f87c19"
+      }, {
+        "level" : 4,
+        "from" : 19,
+        "to" : 18,
+        "color" : "fbae1e"
+      }, {
+        "level" : 5,
+        "from" : 18,
+        "to" : 17,
+        "color" : "ffe424"
+      }, {
+        "level" : 6,
+        "from" : 17,
+        "to" : 16,
+        "color" : "9ada1b"
+      }, {
+        "level" : 7,
+        "from" : 16,
+        "to" : 15,
+        "color" : "30ce12"
+      }, {
+        "level" : 8,
+        "from" : 15,
+        "to" : 14,
+        "color" : "20a70a"
+      }, {
+        "level" : 9,
+        "from" : 14,
+        "to" : 6,
+        "color" : "128000"
+      } ]
+    } ],
+    "currencies" : [ "RUR", "USD", "EUR" ],
+    "searchFilters" : {
+      "ROOMS:RENT" : {
+        "categoryType" : "ROOMS",
+        "offerType" : "RENT",
+        "rangeFilters" : {
+          "area" : {
+            "name" : "area"
+          },
+          "ceilingHeight" : {
+            "name" : "ceilingHeight"
+          },
+          "livingSpace" : {
+            "name" : "livingSpace"
+          },
+          "floor" : {
+            "name" : "floor"
+          }
+        },
+        "numericFilters" : {
+          "minFloors" : {
+            "name" : "minFloors"
+          },
+          "maxFee" : {
+            "name" : "maxFee"
+          },
+          "timeToMetro" : {
+            "name" : "timeToMetro"
+          }
+        },
+        "enumFilters" : {
+          "parking" : {
+            "name" : "parking",
+            "values" : [ "CLOSED", "OPEN", "UNDERGROUND" ]
+          },
+          "renovation" : {
+            "name" : "renovation",
+            "values" : [ "EURO", "COSMETIC_DONE", "DESIGNER_RENOVATION", "NEEDS_RENOVATION", "NON_GRANDMOTHER" ]
+          },
+          "hasFurniture" : {
+            "name" : "hasFurniture",
+            "values" : [ "YES", "NO" ]
+          },
+          "metroTransport" : {
+            "name" : "metroTransport",
+            "values" : [ "ON_FOOT", "ON_TRANSPORT" ]
+          },
+          "placementPeriod" : {
+            "name" : "placementPeriod",
+            "values" : [ "DAY", "THREE_DAYS", "WEEK", "TWO_WEEKS", "MONTH" ]
+          },
+          "roomsTotal" : {
+            "name" : "roomsTotal",
+            "values" : [ "2", "3", "PLUS_4", "4", "5", "6", "PLUS_7" ]
+          },
+          "rentTime" : {
+            "name" : "rentTime",
+            "values" : [ "LARGE", "SHORT" ]
+          },
+          "buildingType" : {
+            "name" : "buildingType",
+            "values" : [ "BRICK", "MONOLIT", "PANEL", "MONOLIT_BRICK" ]
+          },
+          "agents" : {
+            "name" : "agents",
+            "values" : [ "YES", "NO" ]
+          },
+          "buildingEpoch" : {
+            "name" : "buildingEpoch",
+            "values" : [ "KHRUSHCHEV", "STALIN", "BREZHNEV" ]
+          }
+        },
+        "flagFilters" : {
+          "hasTelevision" : {
+            "name" : "hasTelevision"
+          },
+          "floorExceptLast" : {
+            "name" : "floorExceptLast"
+          },
+          "hasWashingMachine" : {
+            "name" : "hasWashingMachine"
+          },
+          "hasAircondition" : {
+            "name" : "hasAircondition"
+          },
+          "hasDishwasher" : {
+            "name" : "hasDishwasher"
+          },
+          "hasPond" : {
+            "name" : "hasPond"
+          },
+          "showOnMap" : {
+            "name" : "showOnMap"
+          },
+          "floorLast" : {
+            "name" : "floorLast"
+          },
+          "hasRefrigerator" : {
+            "name" : "hasRefrigerator"
+          },
+          "hasPark" : {
+            "name" : "hasPark"
+          },
+          "floorExceptFirst" : {
+            "name" : "floorExceptFirst"
+          },
+          "withPets" : {
+            "name" : "withPets"
+          },
+          "hasPhoto" : {
+            "name" : "hasPhoto"
+          },
+          "expectMetro" : {
+            "name" : "expectMetro"
+          },
+          "hasPhone" : {
+            "name" : "hasPhone"
+          },
+          "withChildren" : {
+            "name" : "withChildren"
+          }
+        }
+      },
+      "COMMERCIAL:RENT" : {
+        "categoryType" : "COMMERCIAL",
+        "offerType" : "RENT",
+        "numericFilters" : {
+          "timeToMetro" : {
+            "name" : "timeToMetro"
+          }
+        },
+        "enumFilters" : {
+          "hasFurniture" : {
+            "name" : "hasFurniture",
+            "values" : [ "YES", "NO" ]
+          },
+          "metroTransport" : {
+            "name" : "metroTransport",
+            "values" : [ "ON_FOOT", "ON_TRANSPORT" ]
+          },
+          "placementPeriod" : {
+            "name" : "placementPeriod",
+            "values" : [ "DAY", "THREE_DAYS", "WEEK", "TWO_WEEKS", "MONTH" ]
+          },
+          "roomsTotal" : {
+            "name" : "roomsTotal",
+            "values" : [ "1", "2", "3", "PLUS_4", "OPEN_PLAN", "4", "5", "6", "PLUS_7" ]
+          },
+          "rentTime" : {
+            "name" : "rentTime",
+            "values" : [ "LARGE", "SHORT" ]
+          },
+          "agents" : {
+            "name" : "agents",
+            "values" : [ "YES", "NO" ]
+          },
+          "buildingEpoch" : {
+            "name" : "buildingEpoch",
+            "values" : [ "KHRUSHCHEV", "STALIN", "BREZHNEV" ]
+          }
+        },
+        "flagFilters" : {
+          "hasPhoto" : {
+            "name" : "hasPhoto"
+          },
+          "showOnMap" : {
+            "name" : "showOnMap"
+          }
+        }
+      },
+      "APARTMENT:RENT" : {
+        "categoryType" : "APARTMENT",
+        "offerType" : "RENT",
+        "rangeFilters" : {
+          "area" : {
+            "name" : "area"
+          },
+          "kitchenSpace" : {
+            "name" : "kitchenSpace"
+          },
+          "ceilingHeight" : {
+            "name" : "ceilingHeight"
+          },
+          "livingSpace" : {
+            "name" : "livingSpace"
+          },
+          "floor" : {
+            "name" : "floor"
+          }
+        },
+        "numericFilters" : {
+          "minFloors" : {
+            "name" : "minFloors"
+          },
+          "maxFee" : {
+            "name" : "maxFee"
+          },
+          "timeToMetro" : {
+            "name" : "timeToMetro"
+          }
+        },
+        "enumFilters" : {
+          "parking" : {
+            "name" : "parking",
+            "values" : [ "CLOSED", "OPEN", "UNDERGROUND" ]
+          },
+          "renovation" : {
+            "name" : "renovation",
+            "values" : [ "EURO", "COSMETIC_DONE", "DESIGNER_RENOVATION", "NEEDS_RENOVATION", "NON_GRANDMOTHER" ]
+          },
+          "hasFurniture" : {
+            "name" : "hasFurniture",
+            "values" : [ "YES", "NO" ]
+          },
+          "metroTransport" : {
+            "name" : "metroTransport",
+            "values" : [ "ON_FOOT", "ON_TRANSPORT" ]
+          },
+          "placementPeriod" : {
+            "name" : "placementPeriod",
+            "values" : [ "DAY", "THREE_DAYS", "WEEK", "TWO_WEEKS", "MONTH" ]
+          },
+          "roomsTotal" : {
+            "name" : "roomsTotal",
+            "values" : [ "1", "2", "3", "PLUS_4", "STUDIO", "4", "5", "6", "PLUS_7" ]
+          },
+          "rentTime" : {
+            "name" : "rentTime",
+            "values" : [ "LARGE", "SHORT" ]
+          },
+          "buildingType" : {
+            "name" : "buildingType",
+            "values" : [ "BRICK", "MONOLIT", "PANEL", "MONOLIT_BRICK", "BLOCK" ]
+          },
+          "agents" : {
+            "name" : "agents",
+            "values" : [ "YES", "NO" ]
+          },
+          "buildingEpoch" : {
+            "name" : "buildingEpoch",
+            "values" : [ "KHRUSHCHEV", "STALIN", "BREZHNEV" ]
+          }
+        },
+        "flagFilters" : {
+          "hasTelevision" : {
+            "name" : "hasTelevision"
+          },
+          "floorExceptLast" : {
+            "name" : "floorExceptLast"
+          },
+          "hasWashingMachine" : {
+            "name" : "hasWashingMachine"
+          },
+          "hasAircondition" : {
+            "name" : "hasAircondition"
+          },
+          "hasDishwasher" : {
+            "name" : "hasDishwasher"
+          },
+          "hasPond" : {
+            "name" : "hasPond"
+          },
+          "showOnMap" : {
+            "name" : "showOnMap"
+          },
+          "floorLast" : {
+            "name" : "floorLast"
+          },
+          "hasRefrigerator" : {
+            "name" : "hasRefrigerator"
+          },
+          "hasPark" : {
+            "name" : "hasPark"
+          },
+          "floorExceptFirst" : {
+            "name" : "floorExceptFirst"
+          },
+          "withPets" : {
+            "name" : "withPets"
+          },
+          "hasPhoto" : {
+            "name" : "hasPhoto"
+          },
+          "expectMetro" : {
+            "name" : "expectMetro"
+          },
+          "hasPhone" : {
+            "name" : "hasPhone"
+          },
+          "withChildren" : {
+            "name" : "withChildren"
+          }
+        }
+      },
+      "HOUSE:RENT" : {
+        "categoryType" : "HOUSE",
+        "offerType" : "RENT",
+        "rangeFilters" : {
+          "area" : {
+            "name" : "area"
+          },
+          "lotArea" : {
+            "name" : "lotArea"
+          }
+        },
+        "numericFilters" : {
+          "timeToMetro" : {
+            "name" : "timeToMetro"
+          }
+        },
+        "enumFilters" : {
+          "hasFurniture" : {
+            "name" : "hasFurniture",
+            "values" : [ "YES" ]
+          },
+          "metroTransport" : {
+            "name" : "metroTransport",
+            "values" : [ "ON_FOOT", "ON_TRANSPORT" ]
+          },
+          "placementPeriod" : {
+            "name" : "placementPeriod",
+            "values" : [ "THREE_DAYS", "WEEK", "TWO_WEEKS", "MONTH" ]
+          },
+          "roomsTotal" : {
+            "name" : "roomsTotal",
+            "values" : [ "2", "3", "PLUS_4", "4", "5", "6", "PLUS_7" ]
+          },
+          "housePart" : {
+            "name" : "housePart",
+            "values" : [ "YES", "NO" ]
+          },
+          "rentTime" : {
+            "name" : "rentTime",
+            "values" : [ "LARGE", "SHORT" ]
+          },
+          "lotType" : {
+            "name" : "lotType",
+            "values" : [ "IGS", "GARDEN" ]
+          },
+          "agents" : {
+            "name" : "agents",
+            "values" : [ "YES", "NO" ]
+          },
+          "buildingEpoch" : {
+            "name" : "buildingEpoch",
+            "values" : [ "KHRUSHCHEV", "STALIN", "BREZHNEV" ]
+          }
+        },
+        "flagFilters" : {
+          "hasPhoto" : {
+            "name" : "hasPhoto"
+          },
+          "expectMetro" : {
+            "name" : "expectMetro"
+          },
+          "hasPond" : {
+            "name" : "hasPond"
+          },
+          "showOnMap" : {
+            "name" : "showOnMap"
+          },
+          "hasPark" : {
+            "name" : "hasPark"
+          }
+        }
+      },
+      "GARAGE:RENT" : {
+        "categoryType" : "GARAGE",
+        "offerType" : "RENT",
+        "numericFilters" : {
+          "maxFee" : {
+            "name" : "maxFee"
+          },
+          "timeToMetro" : {
+            "name" : "timeToMetro"
+          }
+        },
+        "enumFilters" : {
+          "metroTransport" : {
+            "name" : "metroTransport",
+            "values" : [ "ON_FOOT", "ON_TRANSPORT" ]
+          },
+          "placementPeriod" : {
+            "name" : "placementPeriod",
+            "values" : [ "DAY", "THREE_DAYS", "WEEK", "TWO_WEEKS", "MONTH" ]
+          },
+          "garageType" : {
+            "name" : "garageType",
+            "values" : [ "PARKING_PLACE", "GARAGE" ]
+          },
+          "rentTime" : {
+            "name" : "rentTime",
+            "values" : [ "LARGE" ],
+            "tipsValue" : "LARGE"
+          },
+          "agents" : {
+            "name" : "agents",
+            "values" : [ "YES", "NO" ]
+          },
+          "buildingEpoch" : {
+            "name" : "buildingEpoch",
+            "values" : [ "KHRUSHCHEV", "STALIN", "BREZHNEV" ]
+          }
+        },
+        "flagFilters" : {
+          "hasPhoto" : {
+            "name" : "hasPhoto"
+          },
+          "hasHeatingSupply" : {
+            "name" : "hasHeatingSupply"
+          },
+          "hasElectricitySupply" : {
+            "name" : "hasElectricitySupply"
+          },
+          "showOnMap" : {
+            "name" : "showOnMap"
+          },
+          "hasElectricityIncluded" : {
+            "name" : "hasElectricityIncluded"
+          },
+          "hasWaterSupply" : {
+            "name" : "hasWaterSupply"
+          },
+          "hasSecurity" : {
+            "name" : "hasSecurity"
+          },
+          "hasUtilitiesIncluded" : {
+            "name" : "hasUtilitiesIncluded"
+          }
+        }
+      },
+      "APARTMENT:SELL:NEWBUILDING" : {
+        "categoryType" : "APARTMENT",
+        "offerType" : "SELL",
+        "newFlat" : "YES",
+        "numericFilters" : {
+          "timeToMetro" : {
+            "name" : "timeToMetro"
+          }
+        },
+        "enumFilters" : {
+          "metroTransport" : {
+            "name" : "metroTransport",
+            "values" : [ "ON_FOOT", "ON_TRANSPORT" ]
+          }
+        },
+        "flagFilters" : {
+          "hasSiteMortgage" : {
+            "name" : "hasSiteMortgage"
+          },
+          "onlyPIK" : {
+            "name" : "onlyPIK"
+          },
+          "hasSpecialProposal" : {
+            "name" : "hasSpecialProposal"
+          },
+          "expectMetro" : {
+            "name" : "expectMetro"
+          },
+          "hasPond" : {
+            "name" : "hasPond"
+          },
+          "hasInstallment" : {
+            "name" : "hasInstallment"
+          },
+          "hasPark" : {
+            "name" : "hasPark"
+          }
+        }
+      },
+      "HOUSE:SELL" : {
+        "categoryType" : "HOUSE",
+        "offerType" : "SELL",
+        "rangeFilters" : {
+          "area" : {
+            "name" : "area"
+          },
+          "lotArea" : {
+            "name" : "lotArea"
+          }
+        },
+        "numericFilters" : {
+          "timeToMetro" : {
+            "name" : "timeToMetro"
+          }
+        },
+        "enumFilters" : {
+          "hasFurniture" : {
+            "name" : "hasFurniture",
+            "values" : [ "YES", "NO" ]
+          },
+          "metroTransport" : {
+            "name" : "metroTransport",
+            "values" : [ "ON_FOOT", "ON_TRANSPORT" ]
+          },
+          "placementPeriod" : {
+            "name" : "placementPeriod",
+            "values" : [ "DAY", "THREE_DAYS", "WEEK", "TWO_WEEKS", "MONTH", "THREE_MONTH" ]
+          },
+          "roomsTotal" : {
+            "name" : "roomsTotal",
+            "values" : [ "1", "2", "3", "PLUS_4", "4", "5", "6", "PLUS_7" ]
+          },
+          "housePart" : {
+            "name" : "housePart",
+            "values" : [ "YES", "NO" ]
+          },
+          "lotType" : {
+            "name" : "lotType",
+            "values" : [ "IGS", "GARDEN" ]
+          },
+          "agents" : {
+            "name" : "agents",
+            "values" : [ "YES", "NO" ]
+          },
+          "buildingEpoch" : {
+            "name" : "buildingEpoch",
+            "values" : [ "KHRUSHCHEV", "STALIN", "BREZHNEV" ]
+          }
+        },
+        "flagFilters" : {
+          "hasPhoto" : {
+            "name" : "hasPhoto"
+          },
+          "hasHeatingSupply" : {
+            "name" : "hasHeatingSupply"
+          },
+          "expectMetro" : {
+            "name" : "expectMetro"
+          },
+          "hasElectricitySupply" : {
+            "name" : "hasElectricitySupply"
+          },
+          "hasPond" : {
+            "name" : "hasPond"
+          },
+          "showOnMap" : {
+            "name" : "showOnMap"
+          },
+          "hasWaterSupply" : {
+            "name" : "hasWaterSupply"
+          },
+          "hasPark" : {
+            "name" : "hasPark"
+          },
+          "hasSewerageSupply" : {
+            "name" : "hasSewerageSupply"
+          },
+          "hasGasSupply" : {
+            "name" : "hasGasSupply"
+          }
+        }
+      },
+      "GARAGE:SELL" : {
+        "categoryType" : "GARAGE",
+        "offerType" : "SELL",
+        "numericFilters" : {
+          "timeToMetro" : {
+            "name" : "timeToMetro"
+          }
+        },
+        "enumFilters" : {
+          "metroTransport" : {
+            "name" : "metroTransport",
+            "values" : [ "ON_FOOT", "ON_TRANSPORT" ]
+          },
+          "placementPeriod" : {
+            "name" : "placementPeriod",
+            "values" : [ "DAY", "THREE_DAYS", "WEEK", "TWO_WEEKS", "MONTH", "THREE_MONTH" ]
+          },
+          "garageType" : {
+            "name" : "garageType",
+            "values" : [ "BOX", "PARKING_PLACE", "GARAGE" ]
+          },
+          "agents" : {
+            "name" : "agents",
+            "values" : [ "YES", "NO" ]
+          },
+          "buildingEpoch" : {
+            "name" : "buildingEpoch",
+            "values" : [ "KHRUSHCHEV", "STALIN", "BREZHNEV" ]
+          }
+        },
+        "flagFilters" : {
+          "hasPhoto" : {
+            "name" : "hasPhoto"
+          },
+          "hasHeatingSupply" : {
+            "name" : "hasHeatingSupply"
+          },
+          "hasElectricitySupply" : {
+            "name" : "hasElectricitySupply"
+          },
+          "showOnMap" : {
+            "name" : "showOnMap"
+          },
+          "hasWaterSupply" : {
+            "name" : "hasWaterSupply"
+          },
+          "hasSecurity" : {
+            "name" : "hasSecurity"
+          }
+        }
+      },
+      "APARTMENT:SELL" : {
+        "categoryType" : "APARTMENT",
+        "offerType" : "SELL",
+        "rangeFilters" : {
+          "area" : {
+            "name" : "area"
+          },
+          "kitchenSpace" : {
+            "name" : "kitchenSpace"
+          },
+          "ceilingHeight" : {
+            "name" : "ceilingHeight"
+          },
+          "livingSpace" : {
+            "name" : "livingSpace"
+          },
+          "floor" : {
+            "name" : "floor"
+          }
+        },
+        "numericFilters" : {
+          "minFloors" : {
+            "name" : "minFloors"
+          },
+          "timeToMetro" : {
+            "name" : "timeToMetro"
+          }
+        },
+        "enumFilters" : {
+          "parking" : {
+            "name" : "parking",
+            "values" : [ "CLOSED", "OPEN", "UNDERGROUND" ]
+          },
+          "renovation" : {
+            "name" : "renovation",
+            "values" : [ "EURO", "COSMETIC_DONE", "DESIGNER_RENOVATION", "NEEDS_RENOVATION", "NON_GRANDMOTHER" ]
+          },
+          "hasFurniture" : {
+            "name" : "hasFurniture",
+            "values" : [ "YES", "NO" ]
+          },
+          "metroTransport" : {
+            "name" : "metroTransport",
+            "values" : [ "ON_FOOT", "ON_TRANSPORT" ]
+          },
+          "placementPeriod" : {
+            "name" : "placementPeriod",
+            "values" : [ "DAY", "THREE_DAYS", "WEEK", "TWO_WEEKS", "MONTH", "THREE_MONTH" ]
+          },
+          "roomsTotal" : {
+            "name" : "roomsTotal",
+            "values" : [ "1", "2", "3", "PLUS_4", "STUDIO", "OPEN_PLAN", "4", "5", "6", "PLUS_7" ]
+          },
+          "bathroomUnit" : {
+            "name" : "bathroomUnit",
+            "values" : [ "MATCHED", "SEPARATED", "TWO_AND_MORE" ]
+          },
+          "newFlat" : {
+            "name" : "newFlat",
+            "values" : [ "YES", "NO" ]
+          },
+          "balcony" : {
+            "name" : "balcony",
+            "values" : [ "BALCONY", "LOGGIA", "ANY" ]
+          },
+          "buildingType" : {
+            "name" : "buildingType",
+            "values" : [ "BRICK", "MONOLIT", "PANEL", "MONOLIT_BRICK", "BLOCK" ]
+          },
+          "agents" : {
+            "name" : "agents",
+            "values" : [ "YES", "NO" ]
+          },
+          "buildingEpoch" : {
+            "name" : "buildingEpoch",
+            "values" : [ "KHRUSHCHEV", "STALIN", "BREZHNEV" ]
+          }
+        },
+        "flagFilters" : {
+          "floorExceptFirst" : {
+            "name" : "floorExceptFirst"
+          },
+          "floorExceptLast" : {
+            "name" : "floorExceptLast"
+          },
+          "hasPhoto" : {
+            "name" : "hasPhoto"
+          },
+          "expectMetro" : {
+            "name" : "expectMetro"
+          },
+          "hasPond" : {
+            "name" : "hasPond"
+          },
+          "showOnMap" : {
+            "name" : "showOnMap"
+          },
+          "floorLast" : {
+            "name" : "floorLast"
+          },
+          "hasPark" : {
+            "name" : "hasPark"
+          },
+          "apartments" : {
+            "name" : "apartments"
+          }
+        }
+      },
+      "COMMERCIAL:SELL" : {
+        "categoryType" : "COMMERCIAL",
+        "offerType" : "SELL",
+        "numericFilters" : {
+          "timeToMetro" : {
+            "name" : "timeToMetro"
+          }
+        },
+        "enumFilters" : {
+          "hasFurniture" : {
+            "name" : "hasFurniture",
+            "values" : [ "YES", "NO" ]
+          },
+          "metroTransport" : {
+            "name" : "metroTransport",
+            "values" : [ "ON_FOOT", "ON_TRANSPORT" ]
+          },
+          "placementPeriod" : {
+            "name" : "placementPeriod",
+            "values" : [ "DAY", "THREE_DAYS", "WEEK", "TWO_WEEKS", "MONTH", "THREE_MONTH" ]
+          },
+          "roomsTotal" : {
+            "name" : "roomsTotal",
+            "values" : [ "1", "2", "3", "PLUS_4", "OPEN_PLAN", "4", "5", "6", "PLUS_7" ]
+          },
+          "agents" : {
+            "name" : "agents",
+            "values" : [ "YES", "NO" ]
+          },
+          "buildingEpoch" : {
+            "name" : "buildingEpoch",
+            "values" : [ "KHRUSHCHEV", "STALIN", "BREZHNEV" ]
+          }
+        },
+        "flagFilters" : {
+          "hasPhoto" : {
+            "name" : "hasPhoto"
+          },
+          "showOnMap" : {
+            "name" : "showOnMap"
+          }
+        }
+      },
+      "ROOMS:SELL" : {
+        "categoryType" : "ROOMS",
+        "offerType" : "SELL",
+        "rangeFilters" : {
+          "area" : {
+            "name" : "area"
+          },
+          "kitchenSpace" : {
+            "name" : "kitchenSpace"
+          },
+          "ceilingHeight" : {
+            "name" : "ceilingHeight"
+          },
+          "livingSpace" : {
+            "name" : "livingSpace"
+          },
+          "floor" : {
+            "name" : "floor"
+          }
+        },
+        "numericFilters" : {
+          "minFloors" : {
+            "name" : "minFloors"
+          },
+          "timeToMetro" : {
+            "name" : "timeToMetro"
+          }
+        },
+        "enumFilters" : {
+          "parking" : {
+            "name" : "parking",
+            "values" : [ "CLOSED", "OPEN" ]
+          },
+          "renovation" : {
+            "name" : "renovation",
+            "values" : [ "EURO", "COSMETIC_DONE", "DESIGNER_RENOVATION", "NEEDS_RENOVATION", "NON_GRANDMOTHER" ]
+          },
+          "hasFurniture" : {
+            "name" : "hasFurniture",
+            "values" : [ "YES", "NO" ]
+          },
+          "metroTransport" : {
+            "name" : "metroTransport",
+            "values" : [ "ON_FOOT", "ON_TRANSPORT" ]
+          },
+          "placementPeriod" : {
+            "name" : "placementPeriod",
+            "values" : [ "DAY", "THREE_DAYS", "WEEK", "TWO_WEEKS", "MONTH", "THREE_MONTH" ]
+          },
+          "roomsTotal" : {
+            "name" : "roomsTotal",
+            "values" : [ "2", "3", "PLUS_4", "4", "5", "6", "PLUS_7" ]
+          },
+          "bathroomUnit" : {
+            "name" : "bathroomUnit",
+            "values" : [ "MATCHED", "SEPARATED", "TWO_AND_MORE" ]
+          },
+          "buildingType" : {
+            "name" : "buildingType",
+            "values" : [ "BRICK", "MONOLIT", "PANEL", "MONOLIT_BRICK", "BLOCK" ]
+          },
+          "agents" : {
+            "name" : "agents",
+            "values" : [ "YES", "NO" ]
+          },
+          "buildingEpoch" : {
+            "name" : "buildingEpoch",
+            "values" : [ "KHRUSHCHEV", "STALIN", "BREZHNEV" ]
+          }
+        },
+        "flagFilters" : {
+          "floorExceptFirst" : {
+            "name" : "floorExceptFirst"
+          },
+          "floorExceptLast" : {
+            "name" : "floorExceptLast"
+          },
+          "hasPhoto" : {
+            "name" : "hasPhoto"
+          },
+          "expectMetro" : {
+            "name" : "expectMetro"
+          },
+          "hasPond" : {
+            "name" : "hasPond"
+          },
+          "showOnMap" : {
+            "name" : "showOnMap"
+          },
+          "floorLast" : {
+            "name" : "floorLast"
+          },
+          "hasPark" : {
+            "name" : "hasPark"
+          }
+        }
+      },
+      "LOT:SELL" : {
+        "categoryType" : "LOT",
+        "offerType" : "SELL",
+        "rangeFilters" : {
+          "lotArea" : {
+            "name" : "lotArea"
+          }
+        },
+        "numericFilters" : {
+          "timeToMetro" : {
+            "name" : "timeToMetro"
+          }
+        },
+        "enumFilters" : {
+          "hasFurniture" : {
+            "name" : "hasFurniture",
+            "values" : [ "YES", "NO" ]
+          },
+          "metroTransport" : {
+            "name" : "metroTransport",
+            "values" : [ "ON_FOOT", "ON_TRANSPORT" ]
+          },
+          "placementPeriod" : {
+            "name" : "placementPeriod",
+            "values" : [ "THREE_DAYS", "WEEK", "TWO_WEEKS", "MONTH", "THREE_MONTH" ]
+          },
+          "lotType" : {
+            "name" : "lotType",
+            "values" : [ "IGS", "GARDEN", "FARM" ]
+          },
+          "agents" : {
+            "name" : "agents",
+            "values" : [ "YES", "NO" ]
+          },
+          "buildingEpoch" : {
+            "name" : "buildingEpoch",
+            "values" : [ "KHRUSHCHEV", "STALIN", "BREZHNEV" ]
+          }
+        },
+        "flagFilters" : {
+          "hasPhoto" : {
+            "name" : "hasPhoto"
+          },
+          "expectMetro" : {
+            "name" : "expectMetro"
+          },
+          "hasPond" : {
+            "name" : "hasPond"
+          },
+          "showOnMap" : {
+            "name" : "showOnMap"
+          },
+          "hasPark" : {
+            "name" : "hasPark"
+          }
+        }
+      }
+    },
+    "hasSites" : true,
+    "hasPik" : true,
+    "hasMetro" : true
+  }
+}
