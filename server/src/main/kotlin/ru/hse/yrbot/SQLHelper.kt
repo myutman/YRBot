@@ -7,7 +7,6 @@ import java.io.PrintWriter
 import java.sql.DriverManager
 import java.sql.Statement
 import java.util.concurrent.Executor
-import java.util.concurrent.Executors
 
 class SQLHelper(host: String, port: Int, password: String) {
     private val statement: Statement
@@ -125,28 +124,12 @@ class SQLHelper(host: String, port: Int, password: String) {
                 ?. joinToString(prefix = "AND (", separator = " OR ", postfix = ")")
                 ?: ""
 
-        //val area = json.getDouble("area")
-        //val credit = json.getInt("credit")
-        //val metro = json.getInt("metro")
-        //val typeDeal = json.getInt("typeDeal")
-        //val reasonForPurchase = json.getInt("reasonForPurchase")
-
         val query = "SELECT offer_id, price, has_lift, floor FROM realty3_offers_extended WHERE price >= $minCost AND price <= $maxCost AND rooms >= $minCountRooms AND rooms <= $maxCountRooms $lift $floors $districts $metros"
         val set = statement.executeQuery(query)
 
         var array = JSONArray()
         while (set.next()) {
             val offerId = set.getLong("offer_id")
-            /*val info = getInfoJSONById(offerId)
-
-            if (info.optString("offerType") != "SELL") continue
-
-            val location = info.optJSONObject("location")
-
-            val districtMatches = districts.contains(location ?. optInt("rgid") ?. toString() ?: "417899")
-            val metroMatches = location ?. optJSONArray("metroList") ?. toList() ?. filter { metros.contains((it as JSONObject).getString("name")) } ?. isEmpty() ?: false
-
-            if (!(metroMatches || districtMatches) && !(metros.isEmpty() && districts.isEmpty())) continue*/
 
             val obj = JSONObject()
                     .put("url", "https://realty.yandex.ru/offer/$offerId/")
